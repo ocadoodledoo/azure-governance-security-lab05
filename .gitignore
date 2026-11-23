@@ -1,0 +1,10 @@
+# Private lab reference materials
+reference/
+docs/
+
+# Local environment and temporary files
+.env
+.env.*
+*.pem
+*.key
+*.log
